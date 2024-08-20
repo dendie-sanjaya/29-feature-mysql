@@ -84,3 +84,12 @@ various tips on the internet and maling-lists and other sources, below is a tabl
 2.28 Into Select 
 
 2.29 Show Processlist
+
+## Contact
+
+If you have question, you can contact this email   
+Email: dendie.sanjaya@gmail.com
+
+## License
+
+This project is licensed under Apache License 2.0:
