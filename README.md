@@ -12,7 +12,7 @@ The material in this book is presented in various case examples that are often e
 You will get practical ways to solve various data processing problems, all of which are collected from the author's experience, online documentation, 
 various tips on the internet and maling-lists and other sources, below is a table of contents of the book from 29 Awesome MySQL Features.
 </p>
-\
+
 
 # Cover Book 29 Feature Dahsyat MySQL
 
