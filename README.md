@@ -1,3 +1,8 @@
+# Cover Book 29 Feature Dahsyat MySQL
+
+![Sampul Book ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX7XivAwmBzes9VaeZdGWvLwWbac30tSxqHQ-rsKWoBmUeQ0ldfCa0MopocSl4D6dIrlSX1NMgFlK_Om1qrXqCHgtsnKpeHB0Lf0Iq5z9CfTbqbY1tT03FdQJbTq48ea_DX6hw_nJhEag/s200/IMG_8795.JPG)
+
+
 # Introduction Book 29 Feature Dahsyat MySQL
 
 MySQL database is an open source database and is distributed for free. Although MySQL is free, it is able to answer the demands of information technology needs, 
@@ -11,7 +16,7 @@ The material in this book is indeed intended for levels that are familiar with t
 The material in this book is presented in various case examples that are often encountered with a short & clear language style so that you can easily understand it. 
 You will get practical ways to solve various data processing problems, all of which are collected from the author's experience, online documentation, 
 various tips on the internet and maling-lists and other sources, below is a table of contents of the book from 29 Awesome MySQL Features.
-
+</p>
 
 # Table of Contents
 
